@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felsecure&label=Profile%20views&color=0e75b6&style=flat" alt="felsecure" /> </p>
 
-<p align="left"> <a href="https://twitter.com/felsecure" target="blank"><img src="https://img.shields.io/twitter/follow/@felsecure?logo=twitter&style=for-the-badge" alt="felsecure" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, CyberSec @TryHackMe, Python**
 
 - 👨‍💻 All of my projects are available at [felsecure.github.io](felsecure.github.io)
