@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felsecure&label=Profile%20views&color=0e75b6&style=flat" alt="felsecure" /> </p>
 
-- 🌱 I’m currently learning **CyberSec @TryHackMe, Python, Webscraping**
+- 🌱 I’m currently learning **CyberSec @TryHackMe, Python - Data Analysis, Java**
 
 - 👨‍💻 All of my projects are available at [felsecure.github.io](felsecure.github.io)
 
