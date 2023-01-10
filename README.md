@@ -7,8 +7,6 @@
 
 - I am currently on an internship @adesso SE , Salesforce - Apex
 
-- 👨‍💻 All of my projects are available at [felsecure.github.io](felsecure.github.io)
-
 - 📫 How to reach me **felixschumacher@ymail.com**
 
 <h3 align="left">Connect with me:</h3>
