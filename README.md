@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felsecure&label=Profile%20views&color=0e75b6&style=flat" alt="felsecure" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Salesforce - Apex, GODOT**
-
-- I am currently on an internship @adesso SE , Salesforce - Apex
+- 🌱 I’m currently learning **Javascript and GODOT**
 
 - 📫 How to reach me **felixschumacher@ymail.com**
 
