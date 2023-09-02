@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix Schumacher</h1>
-<h3 align="center">IT enthusiast, interested in programming and cyber security.</h3>
+<h3 align="center">IT enthusiast, interested in programming, cyber security and software testing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felsecure&label=Profile%20views&color=0e75b6&style=flat" alt="felsecure" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felixinbytes&label=Profile%20views&color=0e75b6&style=flat" alt="felixinbytes" /> </p>
 
-- 🌱 I’m currently learning **Javascript and GODOT**
+- 🌱 I’m currently learning **Javascript Fullstack Dev and Software Testing Skills **
 
 - 📫 How to reach me **felixschumacher@ymail.com**
 
